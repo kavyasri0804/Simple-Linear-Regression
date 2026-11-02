@@ -191,13 +191,9 @@ For production deployment, use the configured Gunicorn start command rather than
 - Add automated tests.
 - Use Docker and a CI/CD pipeline.
 - Monitor application performance after deployment.
-👨‍💻 Author
-Sai Kamal
 
-Founder & Managing Director, Vihara Tech Education Organization
-- Email: saikamal9797@gmail.com
-- LinkedIn: https://www.linkedin.com/in/saikamal9797
-⭐ Conclusion
+
+Conclusion
 This project demonstrates how Simple Linear Regression can be used to estimate salary from years of experience. It combines model training and evaluation with Pickle-based model storage and a Flask interface, with deployment instructions for Render.
 
 The prediction is an estimate based on the dataset and should not be treated as a guaranteed salary offer.
